@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string-array name="simple_items" tools:ignore="InconsistentArrays">
+        <item>Administrador</item>
+        <item>Supervisor</item>
+        <item>Operario</item>
+        <item>Mecanico</item>
+    </string-array>
+</resources>

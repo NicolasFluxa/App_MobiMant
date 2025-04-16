@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">MoviMant</string>
+    <string name="registro">Registro</string>
+    <string name="id_empresa">ID Empresa</string>
+    <string name="usuario">Usuario</string>
+    <string name="rut_usuario">Rut Usuario</string>
+    <string name="cargo">Cargo</string>
+    <string name="contrase_a">Contraseña</string>
+    <string name="confirme_contrase_a">Confirme contraseña</string>
+    <string name="registrar">Registrar</string>
+    <string name="recuperar_contrase_a">Recuperar Contraseña</string>
+    <string name="registro_de_maquinas">Registro de maquinas</string>
+    <string name="matricula_o_identificador">Matricula o Identificador</string>
+    <string name="motorizaci_n">Motorización</string>
+    <string name="modelo">Modelo</string>
+    <string name="marca">Marca</string>
+    <string name="tipo_de_maquina">Tipo de maquina</string>
+    <string name="maquina">Maquina:</string>
+    <string name="ultima_mantenci_n">Ultima Mantención: dd/mm/aaaa</string>
+    <string name="reparaciones_hechas">Reparaciones hechas</string>
+    <string name="caracteristicas_de_la_maquina">Caracteristicas de la Maquina</string>
+    <string name="iniciar_sesi_n">Iniciar sesión</string>
+    <string name="experiencia">Experiencia</string>
+    <string name="habilitaciones">Habilitaciones:</string>
+    <string name="nombre_de_usuario">Nombre de usuario</string>
+    <string name="maquinas">Maquinas</string>
+    <string name="nombre_de_la_maquina_n_descripci_n">Nombre de la maquina: \nDescripción:</string>
+    <string name="agregar_n_maquina">Agregar \nMaquina</string>
+    <string name="ver_perfil">Ver perfil</string>
+    <string name="cerrar_session">Cerrar sesion</string>
+    <string name="volver">Volver</string>
+</resources>
